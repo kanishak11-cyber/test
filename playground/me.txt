@@ -1,0 +1,6 @@
+
+{{#user}
+Name: Kanishak Chaurasia
+Skills: HTML, CSS, JS, Next.js, Tailwindcss, Python, MongoDB, RESTapi
+Email: Kanishakchaurasia2@gmail.com
+{{/user}}
